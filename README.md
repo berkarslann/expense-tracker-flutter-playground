@@ -1,16 +1,6 @@
-# first_app
+# Expense Tracker
 
-A new Flutter project.
+A basic Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="358" alt="Ekran Resmi 2023-12-08 14 05 36" src="https://github.com/berkarslann/expense-tracker-flutter-playground/assets/70469925/83e542ca-8b5e-4826-a93e-3466dc961f9a">
